@@ -1,0 +1,14 @@
+{
+    "name": "ncrousset/prueba-sf",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Rudys Natanael Acosta Crousset",
+            "email": "natanael926@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "app/"}
+    },
+    "require": {}
+}
